@@ -2,3 +2,4 @@
 - 👀 I’m interested in IT and technology.
 - 📫 How to reach me: e-mail: barkoz.2003@gmail.com.
 - PUT STUDENT
+- Check out my portfolio website: https://bartosz-kozlowski.github.io/bk-portfolio/
