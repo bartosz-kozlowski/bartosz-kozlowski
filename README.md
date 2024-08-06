@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @bartosz-kozlowski
+- 👀 I’m interested in IT and technology.
+- 📫 How to reach me: e-mail: barkoz.2003@gmail.com.
+- PUT STUDENT
