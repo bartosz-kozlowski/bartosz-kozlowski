@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @bartosz-kozlowski
-- 👀 I’m interested in IT and technology.
-- 📫 How to reach me: e-mail: barkoz.2003@gmail.com.
-- PUT Student
-- Check out my portfolio website: https://bartosz-kozlowski.github.io/bk-portfolio/
+### 👋 Hi, I'm Bartosz Kozłowski
+
+🎓 I'm a Computer Science student at Poznan University of Technology (PUT), passionate about software development and modern technologies.
+
+📫 Reach me at: barkoz.2003@gmail.com
+
+🌐 [My portfolio website](https://bartosz-kozlowski.github.io/bk-portfolio/)
