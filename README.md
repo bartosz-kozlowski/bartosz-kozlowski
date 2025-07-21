@@ -6,6 +6,8 @@
 
 🌐 [My portfolio website](https://bartosz-kozlowski.github.io/bk-portfolio/)
 
+![](https://komarev.com/ghpvc/?username=bartosz-kozlowski&color=blue)
+
 ### 📊 GitHub Stats (public only)
 
 <div style="display: flex; justify-content: space-between;">
